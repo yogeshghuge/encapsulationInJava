@@ -1,0 +1,17 @@
+package com.demo;
+
+import com.info.Student;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	Student s=new Student();
+    	s.setSid(10);
+    	s.setScity("pune");
+    	s.setSname("lover");
+    	s.setSpercetnage(20.30);
+    	
+    	
+    }
+}
